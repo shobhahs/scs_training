@@ -1,0 +1,6 @@
+name = anonymous_user_view
+description = An example module to demonstrate using SimpleTest
+core = 7.x
+files[] = anonymous_user_view.inc
+
+
