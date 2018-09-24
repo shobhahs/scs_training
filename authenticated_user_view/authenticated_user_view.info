@@ -1,0 +1,7 @@
+name = authenticated_user_view
+description = An example module to demonstrate using SimpleTest
+core = 7.x
+files[] = authenticated_user_view.module
+
+
+
